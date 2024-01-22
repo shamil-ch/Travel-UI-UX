@@ -7,7 +7,7 @@ Indulge in a visually stunning travel experience with our user-friendly webpage.
 
 
 
-![Imgur](https://imgur.com/B7yf2T8)
+![Travel-UI-UX](https://imgur.com/8K4xRRw)
 
 
 ## Features
